@@ -1,0 +1,22 @@
+.container{
+    background: linear-gradient(252.58deg, #002354 0%, #207EFF 100.59%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color: #FFFFFF;
+    margin: 0;
+    font-family: "Quicksand";
+    font-weight: 200;
+    font-size: 10em;
+}
+.subtitle{
+    color: #FFFFFF;
+    margin: 0;
+    font-family: "Quicksand";
+    font-weight: 400;
+    font-size: 3em;
+}

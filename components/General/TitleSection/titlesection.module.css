@@ -1,0 +1,29 @@
+.titleSection {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13rem;
+  letter-spacing: 0.025em;
+  margin: 0;
+  position: relative;
+}
+.titleSection::before{
+    content: '';
+    background-color: #FAE1BA;
+    position: absolute;
+    height: 90%;
+    width: 40%;
+    top: 1rem;
+    z-index: -1;
+}
+.subtitleSection {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7rem;
+  letter-spacing: 0.025em;
+  margin: 0;
+  position: absolute;
+  top: -8rem;
+  color: #A36400;
+}

@@ -1,0 +1,62 @@
+.main{
+  height: 730px;
+  z-index: 3;
+}
+.st0 {
+  fill: #0A1D37;
+}
+.st1 {
+  fill: none;
+  stroke: #0A1D37;
+  stroke-width: 0.5;
+  stroke-miterlimit: 10;
+}
+.st2 {
+  fill: #a36400;
+}
+.st3 {
+  fill: #eff7fc;
+}
+.st4 {
+  fill: #ffedcc;
+}
+.st5 {
+  fill: #ffffff;
+}
+.st6 {
+  fill: none;
+  stroke: #0A1D37;
+  stroke-width: 9.10093e-4;
+  stroke-miterlimit: 10;
+}
+.st7 {
+  fill: #f0a329;
+}
+.st8 {
+  opacity: 0.75;
+}
+.st9 {
+  opacity: 0.75;
+  fill: #ffffff;
+  enable-background: new;
+}
+.st10 {
+  opacity: 0.3;
+}
+.st11 {
+  display: none;
+  fill: #ffffff;
+}
+.st12 {
+  opacity: 0.3;
+  fill: #ffffff;
+  enable-background: new;
+}
+.st13 {
+  opacity: 0.3;
+  fill: none;
+  stroke: #0A1D37;
+  stroke-width: 0.5;
+  stroke-miterlimit: 10;
+  enable-background: new;
+}

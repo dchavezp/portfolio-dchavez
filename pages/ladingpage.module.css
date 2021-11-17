@@ -1,0 +1,21 @@
+.container {
+  background: url("/images/Group 117.png");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  z-index: 2;
+}
+.heroImage {
+  position: absolute;
+  width: 43vw;
+  height: 110vh;
+  bottom: -30%;
+  right: 0;
+  content: "";
+  background: url("/images/hero-image.png");
+  background-size: 100% 100%;
+}
+.mainLayout {
+  position: relative;
+}

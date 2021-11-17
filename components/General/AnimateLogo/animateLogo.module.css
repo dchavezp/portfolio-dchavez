@@ -1,0 +1,9 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  fill: white;
+}
+.logo > path {
+  stroke: white;
+  stroke-width: 2px;
+}

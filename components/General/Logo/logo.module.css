@@ -1,0 +1,20 @@
+.container {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-family: "Poppins";
+  font-weight: 200;
+  font-size: 24px;
+  margin: 0;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  fill: #0a1d37;
+}
+.logo > path {
+  stroke: #0a1d37;
+  stroke-width: 2px;
+}

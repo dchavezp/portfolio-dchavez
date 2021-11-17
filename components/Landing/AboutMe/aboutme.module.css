@@ -1,0 +1,44 @@
+.container {
+  height: 100vh;
+  position: relative;
+  display: block;
+}
+.topWave svg {
+  display: block;
+}
+.botWave {
+  display: block;
+}
+.content {
+  margin: 0;
+
+  height: 500px;
+  padding-left: 136px;
+  padding-right: 136px;
+}
+.photo {
+  border-radius: 100%;
+}
+.topLayout {
+  display: flex;
+  flex-direction: row;
+}
+.title {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12rem;
+  letter-spacing: 0.025em;
+  margin: 0;
+}
+.information {
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+
+  letter-spacing: 0.06em;
+}
